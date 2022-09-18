@@ -1,0 +1,23 @@
+{
+  "name": "airbag-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-dev71/airbag-algorithm.git"
+  },
+  "keywords": [],
+  "author": "Kevin Au tam <kevin.developer71@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-dev71/airbag-algorithm/issues"
+  },
+  "homepage": "https://github.com/kevin-dev71/airbag-algorithm#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
